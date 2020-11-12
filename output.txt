@@ -1,0 +1,7 @@
+Perimeter of the triangle: 68.0 units
+Semiperimeter of the triangle: 34.0 units
+Height of the triangle: 18.3749527588206 units
+Area of the triangle: 220.49943310584723 units
+Type of triangle: acute
+Is triangle valid: yes
+
